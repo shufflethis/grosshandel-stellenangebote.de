@@ -1,0 +1,7 @@
+{
+  "name": "großhandel-stellenangebote.de",
+  "description": "Die führende Plattform für Karriere im Großhandel. Verbindet Arbeitgeber und Talente mit modernster KI-Technologie.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
